@@ -12,7 +12,7 @@ const Navbar = () => {
           className="h-auto w-auto flex flex-row items-center"
         >
           <Image
-            src="/Logo.svg"
+            src="/Logo.png"
             alt="logo"
             width={100}
             height={100}
@@ -22,7 +22,7 @@ const Navbar = () => {
 
         <div className="flex flex-row gap-5">
           <div
-            onClick={() => window.open("mailto:ibrahimmemon930@gmail.com")}
+            onClick={() => window.open("mailto:jamelissaka@gmail.com")}
             className=" z-[1] bg-transparent  padding-10 cursor-pointer bg-black hover:bg-[#2E2E2E] rounded-xl  text-white  py-2 px-5"
           >
             Contact

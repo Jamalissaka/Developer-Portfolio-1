@@ -14,47 +14,37 @@ const Projects = () => {
       <div className=" container mx-auto 2xl  ">
         <div className="flex-col flex md:flex-row  mt-7">
           <Link
-            href="https://web.hr/"
+            href="https://lucashi.vercel.app/"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
           >
             <div className="flex-row flex mb-5">
               <Image
-                src="/FirstProject.png"
+                src="/fpro.jpg"
                 height={150}
                 width={150}
                 alt="WebHR Project"
               />
               <div className="p-3">
-                <p className="text-white font-semibold text-xl">WebHR</p>
-                <p className="text-gray-500 text-[10px]">
-                  Designed a modern UI website comprising more than 50 screens,
-                  along with the integration of a blog using Next.js.
-                </p>
+                <p className="text-white font-semibold text-xl">LucAsh</p>
+                <p className="text-gray-500 text-[10px]">Ecommerce App</p>
               </div>
             </div>
           </Link>
           <Link
-            href="https://hireside.com/"
+            href="https://gitr-internet-access.vercel.app/"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
           >
             <div className="flex-row flex mb-5">
-              <Image
-                src="/SecondProject.png"
-                height={150}
-                width={150}
-                alt="HireSide"
-              />
+              <Image src="/spro.png" height={150} width={150} alt="HireSide" />
               <div className="p-3">
-                <p className="text-white font-semibold text-xl">HireSide</p>
-                <p className="text-gray-500 text-[10px]">
-                  Developed a web application on Next.js that allows users to
-                  apply for jobs, create job posts, and manage their company
-                  profiles.
+                <p className="text-white font-semibold text-xl">
+                  Gitr || Internet Access
                 </p>
+                <p className="text-gray-500 text-[10px]">Cafe website</p>
               </div>
             </div>
           </Link>
