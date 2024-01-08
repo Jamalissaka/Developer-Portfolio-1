@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   metadataBase: new URL(
-    "https://developer-portfolio-ibrahim-memons-projects.vercel.app"
+    "https://jamal-port.vercel.app/"
   ),
   title: "Jamal Portfolio",
   description: "Developer Portfolio By Jamal Issaka",
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Jamal Issaka",
     description: "Software Engineer",
-    images: "/OpenGraph.jpg",
+    images: "/OpenGraph.png",
   },
 };
 
