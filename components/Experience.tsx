@@ -14,7 +14,7 @@ const Experience = () => {
           <p className="text-gray-300 ">
             <span className="font-semibold">WebHR /</span> Software Engineer
           </p>
-          <p className="text-gray-300">MAY 2022 - PRESENT, HYDERABAD</p>
+         
         </div>
         <p className="text-gray-300 pt-5">
           Currently, I am working on WebHR Mobile Application, WebHR is a Cloud
