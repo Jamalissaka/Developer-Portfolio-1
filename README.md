@@ -1,6 +1,6 @@
 # Personal Developer Portfolio 🚀
 
-[![Site preview](/public/site-preview.png)](https://developer-portfolio-ibrahim-memons-projects.vercel.app/)
+[![Site preview](/public/OpenGraph.png)](https://developer-portfolio-ibrahim-memons-projects.vercel.app/)
 
 Welcome to my developer portfolio! This project showcases my skills, projects, and experience as a developer. Built with [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), and [Tailwind CSS](https://tailwindcss.com). it not only provides a visually appealing representation of my work but also ensures optimal performance. View the [live site](https://developer-portfolio-jokpvaf4a-ibrahim-memons-projects.vercel.app/).
 
@@ -33,7 +33,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 # 🚚 Deployment
 
-Every branch or Pull Request is automatically deployed by [Vercel](https://vercel.com/) with their GitHub integration, where the `main` branch is automatically aliased to [ibrahimmemon.com](https://developer-portfolio-jokpvaf4a-ibrahim-memons-projects.vercel.app/). A link to a preview deployment will appear under each Pull Request.
+Every branch or Pull Request is automatically deployed by [Vercel](https://vercel.com/) with their GitHub integration, where the `main` branch is automatically aliased to (https://jamal-port.vercel.app/). A link to a preview deployment will appear under each Pull Request.
 
 # 🏛 Licenses
 
